@@ -1,5 +1,6 @@
+Personal copy of the original repo to mess around in.
 
-[https://github.com/Harvard-IACS/2020-ComputeFest/](https://github.com/Harvard-IACS/2020-ComputeFest/)  
+[Original repo for ComputeFest 2020](https://github.com/Harvard-IACS/2020-ComputeFest/)  
 
   
 
